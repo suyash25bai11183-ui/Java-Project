@@ -314,3 +314,15 @@ These limitations are intentional, so that the project stays at second year leve
 6. Replacing CSV files with SQLite through JDBC.
 7. A JavaFX or Swing graphical interface over the same classes.
 8. QR code stickers on equipment for faster issue and return.
+
+---
+
+## Author
+
+| Field | Value |
+|-------|-------|
+| Name | _your name_ |
+| Registration number | _your registration number_ |
+| Course | B.Tech Computer Science and Engineering, second year |
+| Subject | Java Programming (flipped classroom project) |
+| Repository | _your GitHub URL_ |
