@@ -321,8 +321,8 @@ These limitations are intentional, so that the project stays at second year leve
 
 | Field | Value |
 |-------|-------|
-| Name | _your name_ |
-| Registration number | _your registration number_ |
+| Name | Suyash Singh |
+| Registration number | 25BAI11183 |
 | Course | B.Tech Computer Science and Engineering, second year |
 | Subject | Java Programming (flipped classroom project) |
-| Repository | _your GitHub URL_ |
+| Repository | https://github.com/suyash25bai11183-ui/Java-Project |
